@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://jtaittw.substack.com/p/one-lifetime</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://jtaittw.substack.com/one-lifetime-og.jpg</image:loc>
+      <image:title>130 countries. One lifetime.</image:title>
+      <image:caption>A world map in amber and gold highlighting the 130 countries that gained independence between 1926 and 2011.</image:caption>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://jtaittw.substack.com/grandma-dancing-poster.jpg</video:thumbnail_loc>
+      <video:title>100 years and still dancing</video:title>
+      <video:description>Faustina Warren Thomas, age 100, dancing on a porch in Trinidad on Carnival Sunday 2026. Video by LaTasha Brown.</video:description>
+      <video:content_loc>https://jtaittw.substack.com/grandma-dancing.mp4</video:content_loc>
+      <video:duration>12</video:duration>
+      <video:publication_date>2026-02-15T00:00:00+00:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+</urlset>

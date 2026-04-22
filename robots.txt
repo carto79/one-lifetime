@@ -1,0 +1,6 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Sitemap location — update after replacing the placeholder host URL
+Sitemap: https://jtaittw.substack.com/sitemap.xml
