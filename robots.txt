@@ -1,8 +1,0 @@
-# Allow all crawlers
-User-agent: *
-Allow: /
-
-# Google Discover & Search
-Sitemap: https://jtaittw.substack.com/sitemap.xml
-
-# No crawl delay — the site is static HTML, fetch as fast as you like
